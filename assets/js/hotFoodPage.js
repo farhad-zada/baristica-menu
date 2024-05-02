@@ -51,18 +51,20 @@ const swiper_wrapper = document.querySelector('.swiper-wrapper')
 swiper_wrapper.innerHTML = ''
 foodContent.map((content) => {
     swiper_wrapper.innerHTML += `
-    <div class="swiper-slide dish-element">
-        <h2 class="dish-heading">
-            ${content.dish}
-        </h2>
-        <div class="dish-img">
-            <img src="${content.img}" alt="">
-        </div>
-        <p class="dish-description">
-            ${content.description}
-        </p>
-        <div class="dish-price">
-            ${content.price} azn
+    <div class="swiper-slide flex justify-center">
+        <div class="dish-element">
+            <h2 class="dish-heading">
+                ${content.dish}
+            </h2>
+            <div class="dish-img">
+                <img src="${content.img}" alt="">
+            </div>
+            <p class="dish-description">
+                ${content.description}
+            </p>
+            <div class="dish-price">
+                ${content.price} azn
+            </div>
         </div>
     </div>
     `
