@@ -182,3 +182,6 @@
   .swiper-container {
     overflow: hidden;
 }
+.swiper-button-prev, .swiper-button-next {
+    color: #fff; /* Замените на нужный вам цвет */
+}
