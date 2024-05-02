@@ -1,0 +1,184 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: Georgia,Times,Times,serif; 
+}
+
+.relative {
+    position: relative;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.align-center {
+    align-items: center;
+}
+
+
+.home-page {
+    background: url('./assets/images/home_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.home-page_content {
+    width: 80%;
+}
+
+.home-logo {
+    width: 250px;
+    height: 250px;
+}
+
+.home-logo img {
+    width: 100%;
+    height: 100%;
+}
+
+.home-menu {
+    justify-content: space-around;
+    width: 100%;
+}
+
+.home-menu_element {
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.home-menu_element-img {
+    width: 55%;
+    margin-bottom: 8px;
+}
+
+.home-menu_element-img img {
+    width: 100%;
+    height: 60px;
+}
+
+.home-menu_element h2 {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+}
+
+.dishes-page {
+    background: url('./assets/images/coffee_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    position: relative;
+    min-height: 100vh;
+}
+.home-page_link{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 20px;
+}
+
+.home-page_link a{
+    display: inline-block;
+    color: #000;
+    background-color: #c3c3c3be;
+    border-radius: 8px;
+    padding: 6px 10px;
+}
+.dishes-page_content {
+    width: 80%;
+}
+.hot-food{
+    background: url('./assets/images/hot_food_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    position: relative;
+}
+.tea-page{
+    background: url('./assets/images/tea_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0;
+    position: relative;
+}
+
+.dish-element {
+    background-color: #c3c3c3be;
+    width: 100%;
+    border-radius: 40px 0 40px 0;
+    padding: 20px;
+    height: 485px;
+    margin: 20px 0;
+}
+.dish-element h2{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+}
+.dish-img{
+    width: 100%;
+    margin: 15px 0;
+    height: 300px;
+}
+.dish-img img{
+    width: 100%;
+    height: 100%;
+}
+.dish-price{
+    font-size: 16px;
+    margin: 20px 0;
+}
+.dish-description{
+    font-size: 11px;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  .swiper-container {
+    overflow: hidden;
+}
