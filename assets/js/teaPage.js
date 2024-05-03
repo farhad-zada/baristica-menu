@@ -34,12 +34,6 @@ const foodContent = [
         price: '5'
     },
     {
-        dish: 'MEYVƏLİ ÇAY',
-        img: '../assets/images/tea/fruit_tea.png',
-        description: '',
-        price: '5'
-    },
-    {
         dish: 'BERQAMOT ÇAY',
         img: '../assets/images/tea/bergamot_tea.png',
         description: '',

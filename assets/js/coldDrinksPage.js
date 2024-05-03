@@ -30,7 +30,7 @@ const foodContent = [
     {
         dish: 'BUZLU LATTE',
         img: '../assets/images/coldDrinks/cold_latte.png',
-        description: 'Qızardılmış krivet, qarışıq italyan göyərtisi, çerri pomidor, şam fistiğı, zeytun yağı və laym şirəsi',
+        description: '',
         price: '7.6'
     },
     {
