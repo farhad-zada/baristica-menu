@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/morningFood/gold_fish_set.png',
             description: {
-                az: 'Qızıl balıq, miks göyərti, avokado, kremli pendir, xiyar, brioş, qaynadılmış yumurta, kruasan, qəhvə',
+                az: 'Qızıl balıq, miks göyərti, avokado, krem pendir, xiyar, brioş, qaynadılmış yumurta, kruasan, qəhvə',
                 ru: 'Лосось, микс зелени, авокадо, крем-сыр, огурец свежий, бриошь, яйцо отварное в смятку, круассан , кофе',
                 en: 'Greens , boiled egg, avocado, cream cheese, cucumber, brioche, croissant, coffee'
             },
@@ -94,112 +94,112 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             dish: {
                 az: 'PAŞOT QIZIL BALIQ İLƏ',
-                ru:'ПАШОТ С ЛОСОСЕМ',
-                en:'PAŞOT QIZIL BALIQ İLƏ'
+                ru: 'ПАШОТ С ЛОСОСЕМ',
+                en: 'PAŞOT QIZIL BALIQ İLƏ'
             },
             img: '../assets/images/morningFood/pashot_gold_fish.png',
             description: {
                 az: 'Brioş, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
-                ru:'Бриошь, копченый лосось, яйцо пашот, соус голландез',
-                en:''
+                ru: 'Бриошь, копченый лосось, яйцо пашот, соус голландез',
+                en: ''
             },
             price: '14'
         },
         {
             dish: {
-                az:'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ',
-                ru:'ПАШОТ С ЛОСОСЕМ В ВАФЛЕ',
-                en:'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ'
+                az: 'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ',
+                ru: 'ПАШОТ С ЛОСОСЕМ В ВАФЛЕ',
+                en: 'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ'
             },
             img: '../assets/images/morningFood/pashot_gold_fish_vaffle.png',
             description: {
-                az:'Vafli, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
-                ru:'Вафли, копченый лосось, пашот, голландский соус',
-                en:''
+                az: 'Vafli, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
+                ru: 'Вафли, копченый лосось, пашот, голландский соус',
+                en: ''
             },
             price: '14'
         },
         {
             dish: {
-                az:'PAŞOT AVOKADO',
-                ru:'ПАШОТ С АВОКАДО',
-                en:'PAŞOT AVOKADO'
+                az: 'PAŞOT AVOKADO',
+                ru: 'ПАШОТ С АВОКАДО',
+                en: 'PAŞOT AVOKADO'
             },
             img: '../assets/images/morningFood/pashot_avocado.png',
             description: {
-                az:'Brioş və yaxud Kruasan, avokado, az qaynadılmış yumurta, hollandaise sousu',
-                ru:'Бриошь или Круассан, авокадо, яйцо пашот, соус голландез',
-                en:''
+                az: 'Brioş və yaxud Kruasan, avokado, az qaynadılmış yumurta, hollandaise sousu',
+                ru: 'Бриошь или Круассан, авокадо, яйцо пашот, соус голландез',
+                en: ''
             },
             price: '13'
         },
         {
             dish: {
-                az:'BRİOŞ SKRAMBL',
-                ru:'БРИОШЬ СКРЭМБЛ',
-                en:'BRİOŞ SKRAMBL'
+                az: 'BRİOŞ SKRAMBL',
+                ru: 'БРИОШЬ СКРЭМБЛ',
+                en: 'BRİOŞ SKRAMBL'
             },
             img: '../assets/images/morningFood/briosh_crambl.png',
             description: {
-                az:'Brioş və yaxud Kruasan skrambl yumurta',
-                ru:'Бриошь или Круассан, яичница болтунья',
-                en:''
+                az: 'Brioş və yaxud Kruasan skrambl yumurta',
+                ru: 'Бриошь или Круассан, яичница болтунья',
+                en: ''
             },
             price: '9'
         },
         {
             dish: {
-                az:'PENDİRLİ OMLET',
-                ru:'СЫРНЫЙ ОМЛЕТ',
-                en:'Cheese Omelette'
+                az: 'PENDİRLİ OMLET',
+                ru: 'СЫРНЫЙ ОМЛЕТ',
+                en: 'Cheese Omelette'
             },
             img: '../assets/images/morningFood/cheese_omlet.png',
             description: {
-                az:'Yumurta, Çeddar, Mozzarella, Gouda və yaxud kabaçok ilə',
-                ru:'Яйца, с сыром Чеддер, Моцарелла, Гауда или Кабачком на выбор',
-                en:'Eggs,cream,butter with choice of Cheddar, Mozzarella or  Gouda '
+                az: 'Yumurta, Çeddar, Mozzarella, Gouda və yaxud kabaçok ilə',
+                ru: 'Яйца, с сыром Чеддер, Моцарелла, Гауда или Кабачком на выбор',
+                en: 'Eggs,cream,butter with choice of Cheddar, Mozzarella or  Gouda '
             },
             price: '5'
         },
         {
             dish: {
-                az:'SIRNİKİ',
-                ru:'СЫРНИКИ',
-                en:'Syrniki'
+                az: 'SIRNİKİ',
+                ru: 'СЫРНИКИ',
+                en: 'Syrniki'
             },
             img: '../assets/images/morningFood/sirniki.png',
             description: {
-                az:'Giləmeyvəli sirop və şaftalı ilə',
-                ru:'Сырники с ягодным кули и персиком',
-                en:'Served with berries sauce and sour cream'
+                az: 'Giləmeyvəli sirop və şaftalı ilə',
+                ru: 'Сырники с ягодным кули и персиком',
+                en: 'Served with berries sauce and sour cream'
             },
             price: '10.5'
         },
         {
             dish: {
-                az:'ŞAKŞUKA',
-                ru:'ШАКШУКА',
-                en:'Shakshuka'
+                az: 'ŞAKŞUKA',
+                ru: 'ШАКШУКА',
+                en: 'Shakshuka'
             },
             img: '../assets/images/morningFood/shakshuka.png',
             description: {
-                az:'Tomat, yumurta, soğan, feta pendiri ilə qırmızı bibər',
-                ru:'С помидорами, яйцами, луком, болгарским перцем и сыром фета',
-                en:'Tomatoes, eggs, feta cheese, bell pepper, species'
+                az: 'Tomat, yumurta, soğan, feta pendiri ilə qırmızı bibər',
+                ru: 'С помидорами, яйцами, луком, болгарским перцем и сыром фета',
+                en: 'Tomatoes, eggs, feta cheese, bell pepper, species'
             },
             price: '10'
         },
         {
             dish: {
-                az:'FRANSIZ SAYAĞI TOST',
-                ru:'ФРАНЦУЗСКИЙ ТОСТ',
-                en:'French Tost'
+                az: 'FRANSIZ SAYAĞI TOST',
+                ru: 'ФРАНЦУЗСКИЙ ТОСТ',
+                en: 'French Tost'
             },
             img: '../assets/images/morningFood/french_tost.png',
             description: {
-                az:'Fransız sayağı brioş, şaftalı və kastard kremi ilə',
-                ru:'Бриошь во французском стиле с персиком и заварным кремом',
-                en:''
+                az: 'Fransız sayağı brioş, şaftalı və kastard kremi ilə',
+                ru: 'Бриошь во французском стиле с персиком и заварным кремом',
+                en: 'French style brioche with peach and custard cream on the side'
             },
             price: '9.5'
         },

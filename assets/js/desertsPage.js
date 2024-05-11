@@ -65,113 +65,113 @@ document.addEventListener("DOMContentLoaded", function () {
     const foodContent = [
         {
             dish: {
-                az:'KÖKLÜ PİROQ',
-                ru:'ИМБИРЕВЫЙ ПИРОГ',
-                en:'GİNGER PİE'
+                az: 'KÖKLÜ PİROQ',
+                ru: 'МОРКОВНЫЙ ПИРОГ',
+                en: 'GİNGER PİE'
             },
             img: '../assets/images/deserts/koklu_piroq.png',
             description: {
-                az:'Qoz, muskat, darçın, zəncəfil və qaymaq ilə',
-                ru:'C грецкими орехами, мускатным орехом, специями, имбирем и с насыщенным кремом',
-                en:'With walnuts, nutmeg, spices, ginger and rich cream'
+                az: 'Qoz, muskat, darçın, zəncəfil və qaymaq ilə',
+                ru: 'На англ тоже написали ginger pie , carrot cake должен быть',
+                en: 'With walnuts, nutmeg, spices, ginger and rich cream'
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'TİRAMİSU KETO',
-                ru:'TİRAMİSU KETO',
-                en:''
+                az: 'TİRAMİSU KETO',
+                ru: 'TİRAMİSU KETO',
+                en: 'TIRAMISU KETO'
             },
             img: '../assets/images/deserts/teramisu_keto.png',
             description: {
-                az:'Badam unundan biskvit, espresso, mascarpone kremi, kakao Şəkərsiz və Qlutensiz',
-                ru:'Миндально-ореховый бисквит, пропитанный шотом эспрессо, сливочным маскарпоне, какао Без глютена и сахара',
-                en:'Gluten and sugar  free almond biscuit , socked in espresso shut, creamy mascarpone, cacao powder '
+                az: 'Badam unundan biskvit, espresso, mascarpone kremi, kakao Şəkərsiz və Qlutensiz',
+                ru: 'Миндально-ореховый бисквит, пропитанный шотом эспрессо, сливочным маскарпоне, какао Без глютена и сахара',
+                en: 'Gluten and sugar  free almond biscuit , socked in espresso shut, creamy mascarpone, cacao powder '
             },
             price: '12'
         },
         {
             dish: {
-                az:'SAN SEBASTİAN (PƏHRİZ)',
-                ru:'САН СЕБАСТЬЯН',
-                en:'SAN SEBASTİAN'
+                az: 'SAN SEBASTİAN',
+                ru: 'САН СЕБАСТЬЯН',
+                en: 'SAN SEBASTİAN'
             },
             img: '../assets/images/deserts/san_sebastian.png',
             description: {
-                az:'Bask sayağı, qaymaqlı çizkeyk',
-                ru:'Баскский сливочный чизкейк',
-                en:'Basque creamy cheesecake    '
+                az: 'Bask sayağı, qaymaqlı çizkeyk',
+                ru: 'Баскский сливочный чизкейк',
+                en: 'Basque creamy cheesecake    '
             },
             price: '10'
         },
         {
             dish: {
-                az:'BALLI TORT',
-                ru:'МЕДОВЫЙ ТОРТ',
-                en:'HONEY CAKE'
+                az: 'BALLI TORT',
+                ru: 'МЕДОВЫЙ ТОРТ',
+                en: 'HONEY CAKE'
             },
             img: '../assets/images/deserts/honey_cake.png',
             description: {
-                az:'Təbii baldan hazırlanmış biskvit və qaymaqlı krem',
-                ru:'Натуральное медовое коржи с насыщенным заварным кремом',
-                en:'Natural honey cake with rich custard'
+                az: 'Təbii baldan hazırlanmış biskvit və qaymaqlı krem',
+                ru: 'Натуральное медовое коржи с насыщенным заварным кремом',
+                en: 'Natural honey cake with rich custard'
             },
             price: '11'
         },
         {
             dish: {
-                az:'XURMA KAP',
-                ru:'Хурма Кап',
-                en:'Persimmon Cup'
+                az: 'XURMA KAP',
+                ru: 'Хурма Кап',
+                en: 'Persimmon Cup'
             },
             img: '../assets/images/deserts/xurma_kap.png',
             description: {
-                az:'Təzə xurma, diplomat kremi və xırçıltılı şokolad dənələri ilə Şəkərsiz və Qlutensiz',
-                ru:'Свежая хурма, сливочный крем с экспрессом, шоколадная крамбл',
-                en:'Fresh persimmon, express cream, chocolate crumble'
+                az: 'Təzə xurma, diplomat kremi və xırçıltılı şokolad dənələri ilə.',
+                ru: 'Свежая хурма, сливочный крем эспрессо, шеколадный крамбл.',
+                en: 'Fresh persimmon, express cream, chocolate crumble'
             },
             price: '8.5'
         },
         {
             dish: {
-                az:'BRAUİNİ',
-                ru:'БРАУНИ',
-                en:'Brownie'
+                az: 'BRAUİNİ',
+                ru: 'БРАУНИ',
+                en: 'Brownie'
             },
             img: '../assets/images/deserts/brauni.png',
             description: {
-                az:'Şokoladlı biskvit, qaymaqlı qanaş, namelaka kremi',
-                ru:'Шоколадный торт, со сливочным ганашем и кремом намелака',
-                en:'Chocolate cake with creamy ganache, cream namelaka '
+                az: 'Şokoladlı biskvit, qaymaqlı qanaş, namelaka kremi',
+                ru: 'Шоколадный торт, со сливочным ганашем и кремом намелака',
+                en: 'Chocolate cake with creamy ganache, cream namelaka '
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'KOKOS KETO',
-                ru:'Кокос кето',
-                en:'COCONUT KETO'
+                az: 'KOKOS KETO',
+                ru: 'КОКОС КЕТО',
+                en: 'COCONUT KETO'
             },
             img: '../assets/images/deserts/kokos_keto.png',
             description: {
-                az:'Badam unundan biskvit, kokos kremi, mascarpone kremi, kokos dənəcikləri Şəkərsiz və Qlutensiz',
-                ru:'Безглютеновая, безсахарная миндально-ореховий бисквит, кокосовый  крем, крем маскарпоне, кокосовой стружки',
-                en:'Gluten and sugar-free mix of  almond hazelnut biscuit, coconut cream, mascarpone cream, coconut flakes'
+                az: 'Badam unundan biskvit, kokos kremi, mascarpone kremi, kokos dənəcikləri Şəkərsiz və Qlutensiz',
+                ru: 'Безглютеновая, безсахарная миндально-ореховий бисквит, кокосовый  крем, крем маскарпоне, кокосовой стружки',
+                en: 'Gluten and sugar-free mix of  almond hazelnut biscuit, coconut cream, mascarpone cream, coconut flakes'
             },
             price: '10'
         },
         {
             dish: {
-                az:'MİRENGA TORT',
-                ru:'ТОРТ МИРЕНГА',
-                en:'MERENGUE CAKE'
+                az: 'MİRENGA',
+                ru: 'МИРЕНГА',
+                en: 'MERINGUE'
             },
-            img: '../assets/images/deserts/kokos_keto.png',
+            img: '../assets/images/deserts/mirenga.png',
             description: {
-                az:'Biskvit beze ilə qaymaqlı krem muss',
-                ru:'Нежный сливочный мусс с бисквитным безе',
-                en:'Delicate creamy mousse with biscuit meringue'
+                az: 'Biskvit beze ilə qaymaqlı krem muss',
+                ru: 'Нежный сливочный мусс с бисквитным безе',
+                en: 'Delicate creamy mousse with biscuit meringue'
             },
             price: '9'
         },
