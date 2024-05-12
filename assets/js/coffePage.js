@@ -61,93 +61,93 @@ document.addEventListener("DOMContentLoaded", function () {
     const foodContent = [
         {
             dish: {
-                az:'Espresso single',
-                ru:'Espresso single',
-                en:'Espresso single'
+                az: 'Espresso single',
+                ru: 'Espresso single',
+                en: 'Espresso single'
             },
             img: '../assets/images/coffee/espresso.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '3'
         },
         {
             dish: {
-                az:'Espresso',
-                ru:'Espresso',
-                en:'Espresso'
+                az: 'Espresso',
+                ru: 'Espresso',
+                en: 'Espresso'
             },
             img: '../assets/images/coffee/espresso.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '4'
         },
         {
             dish: {
-                az:'Amerikano',
-                ru:'АМЕРИКАНО',
-                en:'Americano'
+                az: 'Amerikano',
+                ru: 'АМЕРИКАНО',
+                en: 'Americano'
             },
             img: '../assets/images/coffee/americano.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '5.2'
         },
         {
             dish: {
-                az:'Cappucino',
-                ru:'КАПУЧИНО',
-                en:'Cappucino'
+                az: 'Cappucino',
+                ru: 'КАПУЧИНО',
+                en: 'Cappucino'
             },
             img: '../assets/images/coffee/cappucino.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '6'
         },
         {
             dish: {
-                az:'Flat white',
-                ru:'ФЛЭТ УАЙТ',
-                en:'Flat white'
+                az: 'Flat white',
+                ru: 'ФЛЭТ УАЙТ',
+                en: 'Flat white'
             },
             img: '../assets/images/coffee/flat_white.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '6'
         },
         {
             dish: {
-                az:'Latte',
-                ru:'ЛАТТЕ',
-                en:'Latte'
+                az: 'Latte',
+                ru: 'ЛАТТЕ',
+                en: 'Latte'
             },
             img: '../assets/images/coffee/latte.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'Spanish latte',
-                ru:'Spanish latte',
-                en:'Spanish latte'
+                az: 'Spanish latte',
+                ru: 'Spanish latte',
+                en: 'Spanish latte'
             },
             img: '../assets/images/coffee/spanish_latte.png',
             description: 'Qatılaşdırılmış süd, espresso, süd',
@@ -155,281 +155,281 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             dish: {
-                az:'Klassik raf',
-                ru:'КЛАССИЧЕСКИЙ РАФ',
-                en:'Classic Raf'
+                az: 'Klassik raf',
+                ru: 'КЛАССИЧЕСКИЙ РАФ',
+                en: 'Classic Raf'
             },
             img: '../assets/images/coffee/classic_raf.png',
             description: {
-                az:'Belçika şokoladı, espresso, süd',
-                ru:'Ванильный сироп, сливки, эспрессо',
-                en:'Cream, milk, espresso, Handmade vanilla syrup.'
+                az: 'Belçika şokoladı, espresso, süd',
+                ru: 'Ванильный сироп, сливки, эспрессо',
+                en: 'Cream, milk, espresso, Handmade vanilla syrup.'
             },
             price: '7,5'
         },
         {
             dish: {
-                az:'Mocha',
-                ru:'МОККА',
-                en:'MOCHA'
+                az: 'Mocha',
+                ru: 'МОККА',
+                en: 'MOCHA'
             },
             img: '../assets/images/coffee/mocha.png',
             description: {
-                az:'Belçika şokoladı, espresso, süd',
-                ru:'Бельгийский шоколад, сливки, эспрессо',
-                en:'Belgian Chocolate, espresso, mill'
+                az: 'Belçika şokoladı, espresso, süd',
+                ru: 'Бельгийский шоколад ,молоко ,эспрессо',
+                en: 'Belgian Chocolate, espresso, mill'
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'LAVANDALI RAF',
-                ru:'ЛАВАНДОВЫЙ РАФ',
-                en:'Raf Lavender'
+                az: 'LAVANDALI RAF',
+                ru: 'ЛАВАНДОВЫЙ РАФ',
+                en: 'Raf Lavender'
             },
             img: '../assets/images/coffee/lavanda_raf.png',
             description: {
-                az:'Lavanda siropu, espresso, qaymaq, süd',
-                ru:'Сироп лаванды, молоко, эспрессо',
-                en:'Lavender syrup, milk, espresso'
+                az: 'Lavanda siropu, espresso, qaymaq, süd',
+                ru: 'Сироп лаванды, молоко, эспрессо',
+                en: 'Lavender syrup, milk, espresso'
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'LAYM-NANƏLİ RAF',
-                ru:'РАФ ЛАЙМ-МЯТА',
-                en:'Lime Mint Raf'
+                az: 'LAYM-NANƏLİ RAF',
+                ru: 'РАФ ЛАЙМ-МЯТА',
+                en: 'Lime Mint Raf'
             },
             img: '../assets/images/coffee/lime_mint_raf.png',
             description: {
-                az:'Laym nanə sublimatı, süd, qaymaq, espresso',
-                ru:'Сублимат из лайма и мяты, сливки, эспрессо',
-                en:'Lime Mint Sublimate, milk, cream, espresso'
+                az: 'Laym nanə sublimatı, süd, qaymaq, espresso',
+                ru: 'Сублимат из лайма и мяты, сливки, эспрессо',
+                en: 'Lime Mint Sublimate, milk, cream, espresso'
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'DUZLU KARAMEL İLƏ LATTE',
-                ru:'ЛАТТЕ СОЛЕНАЯ КАРАМЕЛЬ',
-                en:'Salted Cramael Latte'
+                az: 'DUZLU KARAMEL İLƏ LATTE',
+                ru: 'ЛАТТЕ СОЛЕНАЯ КАРАМЕЛЬ',
+                en: 'Salted Cramael Latte'
             },
             img: '../assets/images/coffee/salt_karamel_latte.png',
             description: {
-                az:'Duzlu karamel siropu, espresso, süd, duzlu püstə',
-                ru:'Сироп солёная карамель, эспрессо, молоко',
-                en:'Handmade Salted Caramel syrup, milk, espresso, salted Pistacho.'
+                az: 'Duzlu karamel siropu, espresso, süd, duzlu püstə',
+                ru: 'Сироп солёная карамель, эспрессо, молоко',
+                en: 'Handmade Salted Caramel syrup, milk, espresso, salted Pistacho.'
             },
             price: '8'
         },
         {
             dish: {
-                az:'LATTE KREM BRULE',
-                ru:'КРЕМ-БРЮЛЕ ЛАТТЕ',
-                en:'LATTE CREAM BRULE'
+                az: 'LATTE KREM BRULE',
+                ru: 'КРЕМ-БРЮЛЕ ЛАТТЕ',
+                en: 'LATTE CREAM BRULE'
             },
             img: '../assets/images/coffee/latte_krem_brule.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '8'
         },
         {
             dish: {
-                az:'FISTIQLI RAF',
-                ru:'АРАХИСОВЫЙ РАФ',
-                en:'Penaut Raf'
+                az: 'FISTIQLI RAF',
+                ru: 'АРАХИСОВЫЙ РАФ',
+                en: 'Penaut Raf'
             },
             img: '../assets/images/coffee/nuts_raf.png',
             description: {
-                az:'Fıstıq siropu, espresso, qaymaq, süd',
-                ru:'Арахисовый сироп, эспрессо, сливки',
-                en:'Handmade penaut syrup, milk, espresso, penaut'
+                az: 'Fıstıq siropu, espresso, qaymaq, süd',
+                ru: 'Арахисовый сироп, эспрессо, сливки',
+                en: 'Handmade penaut syrup, milk, espresso, penaut'
             },
             price: '8'
         },
         {
             dish: {
-                az:'PORTAĞAL LATTE',
-                ru:'АПЕЛЬСИНОВЫЙ ЛАТТЕ',
-                en:'Orange Latte'
+                az: 'PORTAĞAL LATTE',
+                ru: 'АПЕЛЬСИНОВЫЙ ЛАТТЕ',
+                en: 'Orange Latte'
             },
             img: '../assets/images/coffee/orange_latte.png',
             description: {
-                az:'Portağallı sublimat, süd, portağallı kurd, espresso',
-                ru:'Сублимат из апельсина, эспрессо, молоко, апельсиновый курд',
-                en:'Oranfe sublimate, milk, cream, espresso'
+                az: 'Portağallı sublimat, süd, portağallı kurd, espresso',
+                ru: 'Сублимат из апельсина, эспрессо, молоко, апельсиновый курд',
+                en: 'Oranfe sublimate, milk, cream, espresso'
             },
             price: '9'
         },
         {
             dish: {
-                az:'LATTE PÜSTƏLİ',
-                ru:'ФИСТАШКОВОЕ ЛАТТЕ',
-                en:'Pistacho Latte'
+                az: 'LATTE PÜSTƏLİ',
+                ru: 'ФИСТАШКОВОЕ ЛАТТЕ',
+                en: 'Pistacho Latte'
             },
             img: '../assets/images/coffee/puste_latte.png',
             description: {
-                az:'Püstə siropu, espresso, süd',
-                ru:'Фисташковый сироп, эспрессо, молоко',
-                en:'Handmade Pistacho syrup, milk, espresso single'
+                az: 'Püstə siropu, espresso, süd',
+                ru: 'Фисташковый сироп, эспрессо, молоко',
+                en: 'Handmade Pistacho syrup, milk, espresso single'
             },
             price: '8'
         },
         {
             dish: {
-                az:'FELLOW STAGG',
-                ru:'FELLOW STAGG',
-                en:'FELLOW STAGG'
+                az: 'FELLOW STAGG',
+                ru: 'FELLOW STAGG',
+                en: 'FELLOW STAGG'
             },
             img: '../assets/images/coffee/fellow_stagg.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'AEROPRESS',
-                ru:'AEROPRESS',
-                en:'AEROPRESS'
+                az: 'AEROPRESS',
+                ru: 'AEROPRESS',
+                en: 'AEROPRESS'
             },
             img: '../assets/images/coffee/aeropress.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'BREWISTA GEM',
-                ru:'BREWISTA GEM',
-                en:'BREWISTA GEM'
+                az: 'BREWISTA GEM',
+                ru: 'BREWISTA GEM',
+                en: 'BREWISTA GEM'
             },
             img: '../assets/images/coffee/brewista_gem.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'SYPHON',
-                ru:'SYPHON',
-                en:'SYPHON'
+                az: 'SYPHON',
+                ru: 'SYPHON',
+                en: 'SYPHON'
             },
             img: '../assets/images/coffee/syphon.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'V60 POUR OVER',
-                ru:'V60 POUR OVER',
-                en:'V60 POUR OVER'
+                az: 'V60 POUR OVER',
+                ru: 'V60 POUR OVER',
+                en: 'V60 POUR OVER'
             },
             img: '../assets/images/coffee/v60_pour_over.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'ICE FILTER COFFEE',
-                ru:'ICE FILTER COFFEE',
-                en:'ICE FILTER COFFEE'
+                az: 'ICE FILTER COFFEE',
+                ru: 'ICE FILTER COFFEE',
+                en: 'ICE FILTER COFFEE'
             },
             img: '../assets/images/coffee/ice_filter_coffee.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'CHAI TEA LATTE',
-                ru:'CHAI TEA LATTE',
-                en:'CHAI TEA LATTE'
+                az: 'CHAI TEA LATTE',
+                ru: 'CHAI TEA LATTE',
+                en: 'CHAI TEA LATTE'
             },
             img: '../assets/images/coffee/chai_tea_latte.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7'
         },
         {
             dish: {
-                az:'İSTİ ŞOKOLAD BANANLI',
-                ru:'ГОРЯЧИЙ ШОКОЛАД С БАНАНОМ',
-                en:'Hot Chocolate/ Banana'
+                az: 'İSTİ ŞOKOLAD BANANLI',
+                ru: 'ГОРЯЧИЙ ШОКОЛАД С БАНАНОМ',
+                en: 'Hot Chocolate/ Banana'
             },
             img: '../assets/images/coffee/hot_chocolate_banana.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '8'
         },
         {
             dish: {
-                az:'İSTİ ŞOKOLAD',
-                ru:'ГОРЯЧИЙ ШОКОЛАД',
-                en:'HOT CHOCOLATE'
+                az: 'İSTİ ŞOKOLAD',
+                ru: 'ГОРЯЧИЙ ШОКОЛАД',
+                en: 'HOT CHOCOLATE'
             },
             img: '../assets/images/coffee/hot_chocolate.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '7.5'
         },
         {
             dish: {
-                az:'MATÇA LATTE',
-                ru:'МАТЧА ЛАТТЕ',
-                en:'Matcha Latte'
+                az: 'MATÇA LATTE',
+                ru: 'МАТЧА ЛАТТЕ',
+                en: 'Matcha Latte'
             },
             img: '../assets/images/coffee/matca_latte.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '8'
         },
         {
             dish: {
-                az:'SARIKÖK LATTE',
-                ru:'КУРКУМА ЛАТТЕ',
-                en:'Turmeric Latte'
+                az: 'SARIKÖK LATTE',
+                ru: 'КУРКУМА ЛАТТЕ',
+                en: 'Turmeric Latte'
             },
             img: '../assets/images/coffee/sarikok_latte.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '8'
         },

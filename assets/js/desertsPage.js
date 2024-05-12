@@ -67,12 +67,12 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'KÖKLÜ PİROQ',
                 ru: 'МОРКОВНЫЙ ПИРОГ',
-                en: 'GİNGER PİE'
+                en: 'CARROT CAKE'
             },
             img: '../assets/images/deserts/koklu_piroq.png',
             description: {
                 az: 'Qoz, muskat, darçın, zəncəfil və qaymaq ilə',
-                ru: 'На англ тоже написали ginger pie , carrot cake должен быть',
+                ru: 'С грецкими орехами, мускатным орехом, специями, имбирем и с насыщенным кремом',
                 en: 'With walnuts, nutmeg, spices, ginger and rich cream'
             },
             price: '7.5'
@@ -80,13 +80,13 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             dish: {
                 az: 'TİRAMİSU KETO',
-                ru: 'TİRAMİSU KETO',
+                ru: 'ТИРАМИСУ КЕТО',
                 en: 'TIRAMISU KETO'
             },
             img: '../assets/images/deserts/teramisu_keto.png',
             description: {
                 az: 'Badam unundan biskvit, espresso, mascarpone kremi, kakao Şəkərsiz və Qlutensiz',
-                ru: 'Миндально-ореховый бисквит, пропитанный шотом эспрессо, сливочным маскарпоне, какао Без глютена и сахара',
+                ru: 'Миндально-ореховый бисквит, пропитанный шотом эспрессо, сливочным маскарпоне, какао',
                 en: 'Gluten and sugar  free almond biscuit , socked in espresso shut, creamy mascarpone, cacao powder '
             },
             price: '12'
@@ -128,8 +128,8 @@ document.addEventListener("DOMContentLoaded", function () {
             img: '../assets/images/deserts/xurma_kap.png',
             description: {
                 az: 'Təzə xurma, diplomat kremi və xırçıltılı şokolad dənələri ilə.',
-                ru: 'Свежая хурма, сливочный крем эспрессо, шеколадный крамбл.',
-                en: 'Fresh persimmon, express cream, chocolate crumble'
+                ru: 'Свежая хурма, сливочный крем эспрессо, шоколадный крамбл.',
+                en: 'Fresh persimmon, espresso cream, chocolate crumble'
             },
             price: '8.5'
         },

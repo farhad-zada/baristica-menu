@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'HİSƏ VERİLMİŞ QIZILBALIQ İLƏ BRUSKETTA',
                 ru: 'БРУСКЕТТА С КОПЧЕННЫМ ЛОСОСЕМ',
-                en: 'Smocked Salmon Brushetta'
+                en: 'Smoked Salmon Brushetta'
             },
             img: '../assets/images/fastFood/gold_fish_brusketta.png',
             description: {
@@ -131,169 +131,169 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             dish: {
-                az:'QIZARDILMIŞ TOYUQ İLƏ TOST',
-                ru:'ТОСТ С КУРИЦЕЙ',
-                en:'Roast Beef Tost'
+                az: 'QIZARDILMIŞ TOYUQ İLƏ TOST',
+                ru: 'ТОСТ С КУРИЦЕЙ',
+                en: 'Roast Beef Tost'
             },
             img: '../assets/images/fastFood/chicken_tost.png',
             description: {
-                az:'Tost çörəyi, toyuq, mozzarella pendiri, təzə pomidor, təzə xıyar, yumurta, qırmızı kələm, mayonez',
-                ru:'Тост хлеб, курица, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, красная капуста, майонез',
-                en:'Toast bread, roast beef, mozzarella cheese, fried eggs, fresh tomato, fresh cucumbers, red cabbage, mayo'
+                az: 'Tost çörəyi, toyuq, mozzarella pendiri, təzə pomidor, təzə xıyar, yumurta, qırmızı kələm, mayonez',
+                ru: 'Тост хлеб, курица, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, красная капуста, майонез',
+                en: 'Toast bread, roast beef, mozzarella cheese, fried eggs, fresh tomato, fresh cucumbers, red cabbage, mayo'
             },
             price: '10'
         },
         {
             dish: {
-                az:'HİND TOYUQU İLƏ TOST',
-                ru:'ТОСТ С ИНДЕЙКОЙ',
-                en:'Turkey Tost'
+                az: 'HİND TOYUQU İLƏ TOST',
+                ru: 'ТОСТ С ИНДЕЙКОЙ',
+                en: 'Turkey Tost'
             },
             img: '../assets/images/fastFood/hind_chicken_tost.png',
             description: {
-                az:'Tost çörəyi, hind toyuğu, mozzarella pendiri, qızardılmış yumurta, təzə pomidor, turşu xıyar, qırmızı kələm, mayonez',
-                ru:'Тост хлеб, индейка, сыр моцарелла, жареное яйцо, свежие помидоры, маринованные огурцы, красная капуста, майонез',
-                en:'Toast bread, turkey, mozzarella cheese,fried eggs, fresh tomato, pickled cucumbers, red cabbage, mayo'
+                az: 'Tost çörəyi, hind toyuğu, mozzarella pendiri, qızardılmış yumurta, təzə pomidor, turşu xıyar, qırmızı kələm, mayonez',
+                ru: 'Тост хлеб, индейка, сыр моцарелла, жареное яйцо, свежие помидоры, маринованные огурцы, красная капуста, майонез',
+                en: 'Toast bread, turkey, mozzarella cheese,fried eggs, fresh tomato, pickled cucumbers, red cabbage, mayo'
             },
             price: '11'
         },
         {
             dish: {
-                az:'QIZARDILMIŞ ƏT İLƏ TOST',
-                ru:'РОСТБИФ ТОСТ',
-                en:'Roast Beef Tost'
+                az: 'QIZARDILMIŞ ƏT İLƏ TOST',
+                ru: 'РОСТБИФ ТОСТ',
+                en: 'Roast Beef Tost'
             },
             img: '../assets/images/fastFood/meat_tost.png',
             description: {
-                az:'Tost çörəyi, rostbif, mozzarella pendiri, təzə pomidor, təzə xıyar, yumurta, qırmızı kələm, mayonez',
-                ru:'Тост хлеб, ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, красная капуста, майонез',
-                en:'Toast bread, roast beef, mozzarella cheese, fried eggs, fresh tomato, fresh cucumbers, red cabbage, mayo'
+                az: 'Tost çörəyi, rostbif, mozzarella pendiri, təzə pomidor, təzə xıyar, yumurta, qırmızı kələm, mayonez',
+                ru: 'Тост хлеб, ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, красная капуста, майонез',
+                en: 'Toast bread, roast beef, mozzarella cheese, fried eggs, fresh tomato, fresh cucumbers, red cabbage, mayo'
             },
             price: '14'
         },
         {
             dish: {
-                az:'QIZIL BALIQ İLƏ TOST',
-                ru:'ТОСТ С КОПЧЕННЫМ ЛОСОСЕМ',
-                en:'Salmon Tost'
+                az: 'QIZIL BALIQ İLƏ TOST',
+                ru: 'ТОСТ С КОПЧЕННЫМ ЛОСОСЕМ',
+                en: 'Salmon Tost'
             },
             img: '../assets/images/fastFood/gold_fish_tost.png',
             description: {
-                az:'Hisə verilmiş qızıl balıq, qarışıq göyərti, kremetta pendir ilə qızardılmış tost',
-                ru:'Тост, лосось средней копчёности, микс зелени, креметто сыр',
-                en:'Tost çörək, hisə verilmiş qızıl balıq, kremette pendiri, təzə xıyar, aysberq kahı'
+                az: 'Tost çörəyi, hisə verilmiş qızılbalıq, aysberq kahı, xiyar, krem pendir',
+                ru: 'Тост ,лосось средней копчености ,салат айсберг , крем сыр ,свежий огурец',
+                en: 'Toast bread , smoked salmon , cream cheese , cucumber , aysberg lettuce'
             },
             price: '15'
         },
         {
             dish: {
-                az:'TOYUQ İLƏ SENDVİÇ VAFLİDƏ',
-                ru:'КУРИНЫЙ СЕНДВИЧ В ВАФЛЕ',
-                en:'Chicken Waffle sandwich'
+                az: 'TOYUQ İLƏ SENDVİÇ VAFLİDƏ',
+                ru: 'КУРИНЫЙ СЕНДВИЧ В ВАФЛЕ',
+                en: 'Chicken Waffle sandwich'
             },
             img: '../assets/images/fastFood/chicken_sandwich_waffle.png',
             description: {
-                az:'Vafli, toyuq, mozzarella pendiri, təzə pomidor, təzə xıyar, qızardılmış yumurta, kahı, krem pesto sous',
-                ru:'Вафли, курица , жареное яйцо, сыр моцарелла,свежие помидоры, свежие огурцы, латук, сливочный соус песто',
-                en:'Waffle, chicken, mozzarella cheese, fresh tomato, fresh cucumber, fried eggs, lettuce, creamy peto sauce '
+                az: 'Vafli, toyuq, mozzarella pendiri, təzə pomidor, təzə xıyar, qızardılmış yumurta, kahı, krem pesto sous',
+                ru: 'Вафли, курица , жареное яйцо, сыр моцарелла,свежие помидоры, свежие огурцы, латук, сливочный соус песто',
+                en: 'Waffle, chicken, mozzarella cheese, fresh tomato, fresh cucumber, fried eggs, lettuce, creamy peto sauce '
             },
             price: '10'
         },
         {
             dish: {
-                az:'HİND TOYUQU İLƏ SENDVİÇ VAFLİDƏ',
-                ru:'СЭНДВИЧ С ИНДЕЙКОЙ В ВАФЛЕ',
-                en:'Turkey Waffle Sandwich'
+                az: 'HİND TOYUQU İLƏ SENDVİÇ VAFLİDƏ',
+                ru: 'СЭНДВИЧ С ИНДЕЙКОЙ В ВАФЛЕ',
+                en: 'Turkey Waffle Sandwich'
             },
             img: '../assets/images/fastFood/hind_chicken_sandwich_waffle.png',
             description: {
-                az:'Hind toyuğu, turşu xıyar, qızardılmış yumurta, təzə pomidor ilə qızardılmış vafli',
-                ru:'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
-                en:'Waffle, turkey, mozzarella cheese, fresh tomato, fresh cucumber,eggs, lettuce, creamy peto sauce'
+                az: 'Hind toyuğu, turşu xıyar, qızardılmış yumurta, təzə pomidor ilə qızardılmış vafli',
+                ru: 'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
+                en: 'Waffle, turkey, mozzarella cheese, fresh tomato, fresh cucumber,eggs, lettuce, creamy peto sauce'
             },
             price: '11'
         },
         {
             dish: {
-                az:'QIZARDILMIŞ ƏT İLƏ SENDVİÇ VAFLİDƏ',
-                ru:'СЭНДВИЧ С ГОВЯДИНОЙ В ВАФЛЕ',
-                en:'BEEF SANDWICH IN WAFER'
+                az: 'QIZARDILMIŞ ƏT İLƏ SENDVİÇ VAFLİDƏ',
+                ru: 'СЭНДВИЧ С ГОВЯДИНОЙ В ВАФЛЕ',
+                en: 'ROASTBEEF WAFFLE SANDWICH'
             },
             img: '../assets/images/fastFood/fried_meat_sandwich_vaffle.png',
             description: {
-                az:'Vafli, qızardılmış mal əti, mozzarella pendiri, qızardılmış yumurta, təzə xiyar, pomidor, kahı, mayonez',
-                ru:'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
-                en:'Toast, roast beef, mozzarella cheese, fried egg, fresh tomatoes, fresh cucumbers, lettuce, mayonnaise'
+                az: 'Vafli, qızardılmış mal əti, mozzarella pendiri, qızardılmış yumurta, təzə xiyar, pomidor, kahı, mayonez',
+                ru: 'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
+                en: 'Toast, roast beef, mozzarella cheese, fried egg, fresh tomatoes, fresh cucumbers, lettuce, mayonnaise'
             },
             price: '14'
         },
         {
             dish: {
-                az:'QIZIL BALIQ İLƏ SENDVİÇ VAFLİDƏ',
-                ru:'СЭНДВИЧ С КОПЧЕННЫМ ЛОСОСЕМ В ВАФЛЕ',
-                en:'Smocked Salmon Waffle Sandwich'
+                az: 'QIZIL BALIQ İLƏ SENDVİÇ VAFLİDƏ',
+                ru: 'СЭНДВИЧ С КОПЧЕННЫМ ЛОСОСЕМ В ВАФЛЕ',
+                en: ' Salmon Waffle Sandwich'
             },
             img: '../assets/images/fastFood/gold_fish_sandwich_vaffle.png',
             description: {
-                az:'Hisə verilmiş qızıl balıq, qarışıq göyərti, kremetta pendiri ilə qızardılmış tost',
-                ru:'Вафли, лосось средней копчёности, микс зелени, креметто сыр',
-                en:'Waffles, medium smoked salmon, mixed greens, cremetto cheese'
+                az: 'Hisə verilmiş qızıl balıq, qarışıq göyərti, kremetta pendiri ilə qızardılmış tost',
+                ru: 'Вафля , лосось средней копчёности , салат айсбер , креммето сыр , свежий огурец',
+                en: 'Waffles ,smoked salmon , cream cheese , cucumber , iceberg lettuce'
             },
             price: '15'
         },
         {
             dish: {
-                az:'‘SWEET & SOUR CRİSPY’ TOYUQ İLƏ SENDVİÇ',
-                ru:'‘SWEET & SOUR CRİSPY’ СЭНДВИЧ С КУРИЦЕЙ',
-                en:'Sweet & Sour  Crispy Chicken Sendwich'
+                az: '‘SWEET & SOUR CRİSPY’ TOYUQ İLƏ SENDVİÇ',
+                ru: '‘SWEET & SOUR CRİSPY’ СЭНДВИЧ С КУРИЦЕЙ',
+                en: 'Sweet & Sour  Crispy Chicken Sendwich'
             },
             img: '../assets/images/fastFood/sweet_sour_chicken_sandwich.png',
-            description:{
+            description: {
                 az: 'Baristica Burger Çörəyi, Asiya ədviyyatları ilə qızardılmış toyuq, turşa-şirin sous, aysberq kahı, pomidor, küncüt',
-                ru:'Baristica Бургер Бан , жареная курица с азиатскими специями, кисло-сладкий соус, салат айсберг, помидоры, кунжут',
-                en:'Baristica  Burger Ban , Asian Spicies fried chicken , sweet&sour souce, iceberg lettuce, tomatoes, seasam'
+                ru: 'Baristica Бургер Бан , жареная курица с азиатскими специями, кисло-сладкий соус, салат айсберг, помидоры, кунжут',
+                en: 'Baristica  Burger Ban , Asian Spicies fried chicken , sweet&sour souce, iceberg lettuce, tomatoes, seasam'
             },
             price: '12'
         },
         {
             dish: {
-                az:'‘CAPRİSE’ SENDVİÇ',
-                ru:'‘CAPRİSE’ СЭНДВИЧ',
-                en:'‘CAPRISE’ SANDWICH'
+                az: '‘CAPRİSE’ SENDVİÇ',
+                ru: '‘CAPRİSE’ СЭНДВИЧ',
+                en: '‘CAPRISE’ SANDWICH'
             },
             img: '../assets/images/fastFood/caprise_sandwich.png',
             description: {
-                az:'Barictica Çiabatta, italyan qarışıq göyərti, italyan təzə mozzarellası, krem pendir, pomidor, rukola, pesto sousu və qatılaşdırılmış balzamik',
-                ru:'Баристика Чиабатта, микс зелен итальянский, свежая итальянская моцарелла, крем сыр, помидоры, руккола, соус песто и бальзамик',
-                en:'Baristica Ciabatta, Italian mixed greens, fresh Italian mozzarella, cream cheese, tomatoes, arugula, pesto and balsamic'
+                az: 'Barictica Çiabatta, italyan qarışıq göyərti, italyan təzə mozzarellası, krem pendir, pomidor, rukola, pesto sousu və qatılaşdırılmış balzamik',
+                ru: 'Баристика Чиабатта, микс зелен итальянский, свежая итальянская моцарелла, крем сыр, помидоры, руккола, соус песто и бальзамик',
+                en: 'Baristica Ciabatta, Italian mixed greens, fresh Italian mozzarella, cream cheese, tomatoes, arugula, pesto and balsamic'
             },
             price: '14'
         },
         {
             dish: {
-                az:'TOYUQ İLƏ ROLL',
-                ru:'РОЛЛ С КУРИЦЕЙ',
-                en:'Chicken Wrap'
+                az: 'TOYUQ İLƏ ROLL',
+                ru: 'РОЛЛ С КУРИЦЕЙ',
+                en: 'Chicken Wrap'
             },
             img: '../assets/images/fastFood/chicken_roll.png',
             description: {
-                az:'Tortilla, qızardılmış toyuq, aysberq kahı, təzə pomidor, pendirli və ədviyyatlı sous',
-                ru:'Тортилья, жареная курица, салат айсберг, свежие помидоры, сыр и пикантный соус',
-                en:'Tortilla, fried chicken, iceberg lettuce fresh tomatoes, cheese and spicy sauce '
+                az: 'Tortilla, qızardılmış toyuq, aysberq kahı, təzə pomidor, pendirli və ədviyyatlı sous',
+                ru: 'Тортилья, жареная курица, салат айсберг, свежие помидоры, сыр и пикантный соус',
+                en: 'Tortilla, fried chicken, iceberg lettuce fresh tomatoes, cheese and spicy sauce '
             },
             price: '10'
         },
         {
             dish: {
-                az:'ƏT İLƏ ROLL',
-                ru:'РОЛЛ С МЯСОМ',
-                en:'Beef Wrap'
+                az: 'ƏT İLƏ ROLL',
+                ru: 'РОЛЛ С МЯСОМ',
+                en: 'Beef Wrap'
             },
             img: '../assets/images/fastFood/meat_roll.png',
             description: {
-                az:'Tortilla, can əti, aysberq kahı, təzə pomidor, ikiqat pendirli sousu',
-                ru:'Тортилья, вырезка, салат айсберг, свежие помидоры, двойной сырный соус',
-                en:'Tortilla, tenderloin , iceberg lettuce, fresh tomatoes, double cheese sauce'
+                az: 'Tortilla, can əti, aysberq kahı, təzə pomidor, ikiqat pendirli sousu',
+                ru: 'Тортилья, вырезка, салат айсберг, свежие помидоры, двойной сырный соус',
+                en: 'Tortilla, tenderloin , iceberg lettuce, fresh tomatoes, double cheese sauce'
             },
             price: '13'
         },

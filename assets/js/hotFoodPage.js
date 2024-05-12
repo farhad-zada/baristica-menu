@@ -81,8 +81,8 @@ document.addEventListener("DOMContentLoaded", function () {
             img: '../assets/images/hotFood/tomato_soup.png',
             description: {
                 az: 'Pendir əridilmiş krutonlar və Pesto sousu süfrəyə verilir',
-                ru: 'Подается с плавленным сыром, сухарями и соусом Песто',
-                en: 'Served with cheese melted croutons and Pesto sauce'
+                ru: 'Подается с пармезаном, сухариками, сливками и соусом песто.',
+                en: 'Served with parmesan, croutons, cream and pesto sauce'
             },
             price: '6'
         },
@@ -94,9 +94,9 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/hotFood/mushroom_cream_soup.png',
             description: {
-                az: 'Qaymaq və soğan ilə göbələk şorbası',
-                ru: 'Грибной крем-суп со сливками и луком',
-                en: 'Mushrooms cream soup with corn cream and onion'
+                az: 'Şampinyon və veşinka göbələkləri, qaymaq',
+                ru: 'Грибы шампиньоны и вешенки, сливки',
+                en: 'Mushrooms champignon and oyster, cream'
             },
             price: '7'
         },
@@ -143,7 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
             price: '15'
         },
     ]
-    
+
     const swiper_wrapper = document.querySelector('.swiper-wrapper')
     swiper_wrapper.innerHTML = ''
     foodContent.map((content) => {

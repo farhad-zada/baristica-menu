@@ -81,13 +81,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'HİND TOYUQU İLƏ SET',
                 ru: 'СЕТ С ИНДЮШКОЙ',
-                en: 'Turkey Pasrami set'
+                en: 'Turkey Pastrami set'
             },
             img: '../assets/images/morningFood/hind_chicken_set.png',
             description: {
                 az: 'Hind toyuğu pastrami, yaşıl zeytun, miks göyərti, qayğanaq, kruasan, feta pendiri, çeri pomidoru, brioş, qəhvə',
                 ru: 'Пастрами индейка, зеленые оливки, микс зелени, Яйца скрамбл, Помидоры черри, Круассан, Сыр фета и тост бриошь, Кофе',
-                en: 'Greens, scrambled eggs, cherry tomatoes, olives, feta cheese, brioche , croissant, coffee.'
+                en: 'Turkey pastrami, green olives, mix salad scramble eggs, cherry tomatoes, feta cheese, brioche toast, croissant, coffee.'
             },
             price: '15'
         },
@@ -95,13 +95,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'PAŞOT QIZIL BALIQ İLƏ',
                 ru: 'ПАШОТ С ЛОСОСЕМ',
-                en: 'PAŞOT QIZIL BALIQ İLƏ'
+                en: 'POACHED SALMON BRIOCHE'
             },
             img: '../assets/images/morningFood/pashot_gold_fish.png',
             description: {
                 az: 'Brioş, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
                 ru: 'Бриошь, копченый лосось, яйцо пашот, соус голландез',
-                en: ''
+                en: 'Smoked salmon, pashot egg, hollandaise sauce'
             },
             price: '14'
         },
@@ -109,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ',
                 ru: 'ПАШОТ С ЛОСОСЕМ В ВАФЛЕ',
-                en: 'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ'
+                en: 'POACHED SALMON WAFFLE'
             },
             img: '../assets/images/morningFood/pashot_gold_fish_vaffle.png',
             description: {
@@ -123,13 +123,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'PAŞOT AVOKADO',
                 ru: 'ПАШОТ С АВОКАДО',
-                en: 'PAŞOT AVOKADO'
+                en: 'POACHED AVOCADO'
             },
             img: '../assets/images/morningFood/pashot_avocado.png',
             description: {
                 az: 'Brioş və yaxud Kruasan, avokado, az qaynadılmış yumurta, hollandaise sousu',
                 ru: 'Бриошь или Круассан, авокадо, яйцо пашот, соус голландез',
-                en: ''
+                en: 'Bread of your choice, smoked salmon, pashot egg, hollandaise sauce'
             },
             price: '13'
         },
@@ -137,13 +137,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'BRİOŞ SKRAMBL',
                 ru: 'БРИОШЬ СКРЭМБЛ',
-                en: 'BRİOŞ SKRAMBL'
+                en: 'BRIOCHE SCRAMBLED EGGS'
             },
             img: '../assets/images/morningFood/briosh_crambl.png',
             description: {
-                az: 'Brioş və yaxud Kruasan skrambl yumurta',
-                ru: 'Бриошь или Круассан, яичница болтунья',
-                en: ''
+                az: 'Brioş, skrambl yumurta',
+                ru: 'Бриошь, яичница болтунья',
+                en: 'Brioche, scrambled eggs'
             },
             price: '9'
         },
