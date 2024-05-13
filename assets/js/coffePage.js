@@ -150,7 +150,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 en: 'Spanish latte'
             },
             img: '../assets/images/coffee/spanish_latte.png',
-            description: 'Qatılaşdırılmış süd, espresso, süd',
+            description: {
+                az: 'Qatılaşdırılmış süd, espresso, süd',
+                en: 'Condensed milk , espresso ,milk',
+                ru: 'Сгущенное молоко ,эспрессо ,молоко',
+            },
             price: '7'
         },
         {
@@ -161,9 +165,9 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/coffee/classic_raf.png',
             description: {
-                az: 'Belçika şokoladı, espresso, süd',
+                az: 'Qaymaq ,espresso ,vanil siropu',
                 ru: 'Ванильный сироп, сливки, эспрессо',
-                en: 'Cream, milk, espresso, Handmade vanilla syrup.'
+                en: 'Cream, espresso, Handmade vanilla syrup.'
             },
             price: '7,5'
         },
@@ -177,7 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
             description: {
                 az: 'Belçika şokoladı, espresso, süd',
                 ru: 'Бельгийский шоколад ,молоко ,эспрессо',
-                en: 'Belgian Chocolate, espresso, mill'
+                en: 'Belgian Chocolate, espresso, milk'
             },
             price: '7.5'
         },
@@ -190,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function () {
             img: '../assets/images/coffee/lavanda_raf.png',
             description: {
                 az: 'Lavanda siropu, espresso, qaymaq, süd',
-                ru: 'Сироп лаванды, молоко, эспрессо',
+                ru: 'Сироп лаванды, эспрессо, сливки, молоко',
                 en: 'Lavender syrup, milk, espresso'
             },
             price: '7.5'
@@ -231,9 +235,9 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/coffee/latte_krem_brule.png',
             description: {
-                az: '',
-                ru: '',
-                en: ''
+                az: 'Krem brule siropu , espresso , süd',
+                ru: 'Сироп Крем-Брюле, молоко, эспрессо',
+                en: 'Handmade Cream Brule syrup , espresso, milk'
             },
             price: '8'
         },
@@ -241,13 +245,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'FISTIQLI RAF',
                 ru: 'АРАХИСОВЫЙ РАФ',
-                en: 'Penaut Raf'
+                en: 'Peanut Raf'
             },
             img: '../assets/images/coffee/nuts_raf.png',
             description: {
                 az: 'Fıstıq siropu, espresso, qaymaq, süd',
                 ru: 'Арахисовый сироп, эспрессо, сливки',
-                en: 'Handmade penaut syrup, milk, espresso, penaut'
+                en: 'Handmade peanut syrup , cream, milk, espresso , peanut'
             },
             price: '8'
         },
@@ -261,7 +265,7 @@ document.addEventListener("DOMContentLoaded", function () {
             description: {
                 az: 'Portağallı sublimat, süd, portağallı kurd, espresso',
                 ru: 'Сублимат из апельсина, эспрессо, молоко, апельсиновый курд',
-                en: 'Oranfe sublimate, milk, cream, espresso'
+                en: 'Orange sublimate ,milk ,orange curd , espresso'
             },
             price: '9'
         },

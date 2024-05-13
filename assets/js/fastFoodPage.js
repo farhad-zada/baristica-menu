@@ -91,13 +91,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'VETÇİNA VƏ PENDİRLİ TOST (HALAL)',
                 ru: 'ТОСТ С ВЕТЧИНОЙ И СЫРОМ (HALAL)',
-                en: ' Ham&Cheese Tost (HALAL)'
+                en: ' Ham & Cheese Tost (HALAL)'
             },
             img: '../assets/images/fastFood/vetchine_cheese_tost.png',
             description: {
                 az: 'Hind toyuqlu vetçina Mozarella pendiri ilə',
                 ru: 'Ветчина из индейки с сыром Моцарелла',
-                en: 'Tost, turkey mam with mozarella cheese'
+                en: 'Tost, turkey ham with mozarella cheese'
             },
             price: '9'
         },
@@ -105,13 +105,13 @@ document.addEventListener("DOMContentLoaded", function () {
             dish: {
                 az: 'VETÇİNA VƏ PENDİR İLƏ KRUASSAN',
                 ru: 'КРУАССАН С ВЕТЧИНОЙ И СЫРОМ',
-                en: ' Ham&Cheese Croissant'
+                en: ' Ham & Cheese Croissant'
             },
             img: '../assets/images/fastFood/vetchine_cheese_kruassan.png',
             description: {
                 az: 'Kruassan hind toyuqlu vetçina Mozarella pendiri ilə',
                 ru: 'Круассан, ветчина из индейки с сыром моцарелла',
-                en: 'Croissant, turkey mam with mozarella cheese'
+                en: 'Croissant, turkey ham with mozarella cheese'
             },
             price: '9'
         },
@@ -207,9 +207,9 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/fastFood/hind_chicken_sandwich_waffle.png',
             description: {
-                az: 'Hind toyuğu, turşu xıyar, qızardılmış yumurta, təzə pomidor ilə qızardılmış vafli',
-                ru: 'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
-                en: 'Waffle, turkey, mozzarella cheese, fresh tomato, fresh cucumber,eggs, lettuce, creamy peto sauce'
+                az: 'Vafli, hind toyuğu pastrami, mozzarella pendiri, təzə pomidor və turşu xiyar,qızardılmış yumurta, kahı, krem pesto sousla',
+                ru: 'Вафля, индейка, сыр моцарелла, свежие помидоры ,соленые огурцы, яйца, листья салата, крем песто соус',
+                en: 'Waffle, turkey, mozzarella cheese, fresh tomato and cucumber,eggs, lettuce, cream pesto sauce'
             },
             price: '11'
         },
@@ -221,9 +221,9 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/fastFood/fried_meat_sandwich_vaffle.png',
             description: {
-                az: 'Vafli, qızardılmış mal əti, mozzarella pendiri, qızardılmış yumurta, təzə xiyar, pomidor, kahı, mayonez',
-                ru: 'Тост,ростбиф, сыр моцарелла, жареное яйцо, свежие помидоры, свежие огурцы, латук, майонез',
-                en: 'Toast, roast beef, mozzarella cheese, fried egg, fresh tomatoes, fresh cucumbers, lettuce, mayonnaise'
+                az: 'Vafli, rozbif  ,mozzarella pendiri, təzə pomidor və  xiyar,qızardılmış yumurta, kahı, krem pesto sousla',
+                ru: 'Вафля, ростбиф, сыр моцарелла, свежие помидоры и огурцы, яйца, листья салата, крем песто соус',
+                en: 'Waffle ,roast beef, mozzarella cheese, fried eggs, fresh tomato and cucumber, red cabbage, cream pesto sauce'
             },
             price: '14'
         },
@@ -235,8 +235,8 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/fastFood/gold_fish_sandwich_vaffle.png',
             description: {
-                az: 'Hisə verilmiş qızıl balıq, qarışıq göyərti, kremetta pendiri ilə qızardılmış tost',
-                ru: 'Вафля , лосось средней копчёности , салат айсбер , креммето сыр , свежий огурец',
+                az: 'Vafli, hisə verilmiş qızılbalıq, təzə xiyar, kahı, krem pendir ilə',
+                ru: 'Вафля ,лосось средней копчёности ,салат айсберг , крем сыр , свежий огурец',
                 en: 'Waffles ,smoked salmon , cream cheese , cucumber , iceberg lettuce'
             },
             price: '15'

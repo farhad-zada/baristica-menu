@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", function () {
             img: '../assets/images/morningFood/gold_fish_set.png',
             description: {
                 az: 'Qızıl balıq, miks göyərti, avokado, krem pendir, xiyar, brioş, qaynadılmış yumurta, kruasan, qəhvə',
-                ru: 'Лосось, микс зелени, авокадо, крем-сыр, огурец свежий, бриошь, яйцо отварное в смятку, круассан , кофе',
+                ru: 'Копчёный лосось ,зелень, яйцо вареное, авокадо, крем сыр, огурец, бриошь, круассан, кофе',
                 en: 'Greens , boiled egg, avocado, cream cheese, cucumber, brioche, croissant, coffee'
             },
             price: '15'
@@ -93,45 +93,31 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             dish: {
-                az: 'PAŞOT QIZIL BALIQ İLƏ',
-                ru: 'ПАШОТ С ЛОСОСЕМ',
-                en: 'POACHED SALMON BRIOCHE'
+                az: 'Benedict QIZIL BALIQ İLƏ',
+                ru: 'Бенедикт с Лососем',
+                en: 'Benedict with Salmon'
             },
             img: '../assets/images/morningFood/pashot_gold_fish.png',
             description: {
-                az: 'Brioş, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
-                ru: 'Бриошь, копченый лосось, яйцо пашот, соус голландез',
-                en: 'Smoked salmon, pashot egg, hollandaise sauce'
+                az: 'İstəyə görə çörək, (Brioş, Vafli, Kruassan) az duzlu qızılbalıq, paşot yumurta, hollandez sousu ilə)',
+                ru: 'Хлеб на выбор (Бриошь,Вафля,Круассан )копченый лосось, яйцо пашот, соус голландез',
+                en: 'Bread of your choice, (Brioche, Waffle, Croissant) smoked salmon, poached eggs, hollandaise sauce'
             },
-            price: '14'
+            price: '14-15'
         },
         {
             dish: {
-                az: 'PAŞOT QIZIL BALIQ İLƏ VAFLİDƏ',
-                ru: 'ПАШОТ С ЛОСОСЕМ В ВАФЛЕ',
-                en: 'POACHED SALMON WAFFLE'
-            },
-            img: '../assets/images/morningFood/pashot_gold_fish_vaffle.png',
-            description: {
-                az: 'Vafli, hisə verilmiş qızıl balıq, paşot yumurta, holland sousu',
-                ru: 'Вафли, копченый лосось, пашот, голландский соус',
-                en: ''
-            },
-            price: '14'
-        },
-        {
-            dish: {
-                az: 'PAŞOT AVOKADO',
-                ru: 'ПАШОТ С АВОКАДО',
-                en: 'POACHED AVOCADO'
+                az: 'Benedict AVOKADO',
+                ru: 'Бенедикт с Авокадо',
+                en: 'Benedict with Avocado'
             },
             img: '../assets/images/morningFood/pashot_avocado.png',
             description: {
-                az: 'Brioş və yaxud Kruasan, avokado, az qaynadılmış yumurta, hollandaise sousu',
-                ru: 'Бриошь или Круассан, авокадо, яйцо пашот, соус голландез',
-                en: 'Bread of your choice, smoked salmon, pashot egg, hollandaise sauce'
+                az: 'İstəyə görə çörək, (Brioş, Vafli, Kruassan) avocado,paşot yumurta, hollandez sousu ilə',
+                ru: 'Хлеб на выбор (Бриошь,Вафля,Круассан )авокадо, яйца пашот, соус голландез',
+                en: 'Bread of your choice, (Brioche, Waffle, Croissant) avocado, poached eggs, hollandaise sauce'
             },
-            price: '13'
+            price: '13-14'
         },
         {
             dish: {
@@ -155,8 +141,8 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/morningFood/cheese_omlet.png',
             description: {
-                az: 'Yumurta, Çeddar, Mozzarella, Gouda və yaxud kabaçok ilə',
-                ru: 'Яйца, с сыром Чеддер, Моцарелла, Гауда или Кабачком на выбор',
+                az: 'Yumurta, qaymaq, kərə yağı seçimi ilə Çedar, Mozzarella və ya Qouda pendiri',
+                ru: 'Яйца, сливки, сливочное масло с Чеддером, Моцареллой и Гаудой на выбор.',
                 en: 'Eggs,cream,butter with choice of Cheddar, Mozzarella or  Gouda '
             },
             price: '5'
@@ -169,8 +155,8 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/morningFood/sirniki.png',
             description: {
-                az: 'Giləmeyvəli sirop və şaftalı ilə',
-                ru: 'Сырники с ягодным кули и персиком',
+                az: 'Giləmeyvəli sous və xama ilə servis edilir',
+                ru: 'Подается с ягодным соусом и сметаной',
                 en: 'Served with berries sauce and sour cream'
             },
             price: '10.5'
@@ -183,8 +169,8 @@ document.addEventListener("DOMContentLoaded", function () {
             },
             img: '../assets/images/morningFood/shakshuka.png',
             description: {
-                az: 'Tomat, yumurta, soğan, feta pendiri ilə qırmızı bibər',
-                ru: 'С помидорами, яйцами, луком, болгарским перцем и сыром фета',
+                az: 'Pomidor, yumurta, feta pendiri, bolqar bibəri, ədviyyatlar',
+                ru: 'Помидоры, яйца, сыр фета, болгарский перец, специи',
                 en: 'Tomatoes, eggs, feta cheese, bell pepper, species'
             },
             price: '10'

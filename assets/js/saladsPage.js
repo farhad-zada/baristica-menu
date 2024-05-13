@@ -61,57 +61,57 @@ document.addEventListener("DOMContentLoaded", function () {
     const foodContent = [
         {
             dish: {
-                az:'‘SESAME’ TOYUQ SALATI',
-                ru:'‘SESAME’ КУРИНЫЙ САЛАТ',
-                en:'Sesame Chicken Salad'
+                az: '‘SESAME’ TOYUQ SALATI',
+                ru: '‘SESAME’ КУРИНЫЙ САЛАТ',
+                en: 'Sesame Chicken Salad'
             },
             img: '../assets/images/salads/sesame_chicken_salad.png',
             description: {
-                az:'Toyuq, aysberq kahı, çerri pomidor, xıyar, küncüt sousu',
-                ru:'Курица, салат айсберг, помидоры черри, огурцы, кунжутная заправка',
-                en:'Chicken, Italian mix greens, cherry tomatoes, cucumbers, sesame dressing'
+                az: 'Toyuq, aysberq kahı, çerri pomidor, xıyar, küncüt sousu',
+                ru: 'Курица, салат айсберг, помидоры черри, огурцы, кунжутная заправка',
+                en: 'Chicken, Italian mix greens, cherry tomatoes, cucumbers, sesame dressing'
             },
             price: '10'
         },
         {
             dish: {
-                az:'RUKKOLA & STRACCİATELLA SALATI',
-                ru:'САЛАТ ИЗ РУККОЛЫ И СТРАЧЧАТЕЛЛЫ',
-                en:'Arugula&Stracciatella Salad'
+                az: 'RUKKOLA & STRACCİATELLA SALATI',
+                ru: 'САЛАТ ИЗ РУККОЛЫ И СТРАЧЧАТЕЛЛЫ',
+                en: 'Arugula&Stracciatella Salad'
             },
             img: '../assets/images/salads/rukkola_salad.png',
             description: {
-                az:'Stracciatella alla Romana, rukkola, qırmızı və sarı pomidor, şam fıstığı, balzamik sirkəsi, qırmızı giləmeyvə və pesto sousu',
-                ru:'Страччателла по-романски, руккола, красные и желтые помидоры, кедровые орешки, бальзамический уксус, красные ягоды и соус песто',
-                en:'İtalian mix greens, cherry  tomtatoes, pine nuts, balsamic reduction, berries and pesto sauce'
+                az: 'Stracciatella alla Romana, rukkola, qırmızı və sarı pomidor, şam fıstığı, balzamik sirkəsi, qırmızı giləmeyvə və pesto sousu',
+                ru: 'Страччателла по-романски, руккола, красные и желтые помидоры, кедровые орешки, бальзамический уксус, красные ягоды и соус песто',
+                en: 'İtalian mix greens, cherry  tomtatoes, pine nuts, balsamic reduction, berries and pesto sauce'
             },
             price: '16'
         },
         {
             dish: {
-                az:'QIZARDILMIŞ AVOKADO MOZZARELLA SALATI',
-                ru:'САЛАТ С ЖАРЕНЫМ АВОКАДО И МОЦАРЕЛЛОЙ',
-                en:'Grilled Avocado Salad'
+                az: 'QIZARDILMIŞ AVOKADO MOZZARELLA SALATI',
+                ru: 'САЛАТ С ЖАРЕНЫМ АВОКАДО И МОЦАРЕЛЛОЙ',
+                en: 'Grilled Avocado Salad'
             },
             img: '../assets/images/salads/avokado_mozarella_salad.png',
             description: {
-                az:'İtalyan Mix göyərti, qızardılmış avokado, italyan təzə Mozzarella, çerri pomidor, İtalyan balzamik sousu ilə',
-                ru:'Итальянский микс из зелени, жареный авокадо, свежая итальянская моцарелла, помидоры черри, подаются с соусом из итальянского бальзамика',
-                en:'Italian Mix Greens and fresh Mozzarella, cherry tomatoes served with  balsamic reduction '
+                az: 'İtalyan Mix göyərti, qızardılmış avokado, italyan təzə Mozzarella, çerri pomidor, İtalyan balzamik sousu ilə',
+                ru: 'Итальянский микс из зелени, жареный авокадо, свежая итальянская моцарелла, помидоры черри, подаются с соусом из итальянского бальзамика',
+                en: 'Italian Mix Greens and fresh Mozzarella, cherry tomatoes served with  balsamic reduction '
             },
             price: '17'
         },
         {
             dish: {
-                az:'QIZARDILMIŞ KRİVET SALATI',
-                ru:'САЛАТ ИЗ ЖАРЕННЫХ КРЕВЕТОК',
-                en:'Persimmon  Salad'
+                az: 'QIZARDILMIŞ KRİVET SALATI',
+                ru: 'САЛАТ ИЗ ЖАРЕННЫХ КРЕВЕТОК',
+                en: 'Fried Prawns Salad'
             },
             img: '../assets/images/salads/fried_krivet_salad.png',
             description: {
-                az:'Qızardılmış krivet, qarışıq italyan göyərtisi, çerri pomidor, şam fistiğı, zeytun yağı və laym şirəsi',
-                ru:'Обжаренные креветки, смесь зелени, помидоров черри, кедровых орешков, оливкового масла и сока лайма',
-                en:'Persimmon, stracciatella, İtalian mixed greens, cherry tomatoes, almonds, parmesan, balsamic reduction'
+                az: 'Qızardılmış krivet, qarışıq italyan göyərtisi, çerri pomidor, şam fistiğı, zeytun yağı və laym şirəsi',
+                ru: 'Обжаренные креветки, смесь зелени, помидоров черри, кедровых орешков, оливкового масла и сока лайма',
+                en: 'Fried Prawns, italian mix greens, cherry tomatoes, pine nuts, olive oil and lime juice'
             },
             price: '18'
         },

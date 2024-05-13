@@ -66,102 +66,101 @@ document.addEventListener("DOMContentLoaded", function () {
     const foodContent = [
         {
             dish: {
-                az:'LİMONLU NANƏLİ ÇAY',
-                ru:'ЧАЙ С ЛИМОНОМ И МЯТОЙ',
-                en:'TEA WITH LEMON AND MINT'
-            },
-            img: '../assets/images/tea/lemon_mint_tea.png',
-            description: {
-                az:'',
-                ru:'',
-                en:''
-            },
-            price: '5'
-        },
-        {
-            dish: {
-                az:'QARA ÇAY',
-                ru:'ЧЕРНЫЙ ЧАЙ',
-                en:'Black Tea'
+                az: 'QARA ÇAY',
+                ru: 'ЧЕРНЫЙ ЧАЙ',
+                en: 'Black Tea'
             },
             img: '../assets/images/tea/black_tea.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '5'
         },
         {
             dish: {
-                az:'YAŞIL ÇAY',
-                ru:'ЗЕЛЕНЫЙ ЧАЙ',
-                en:'GREEN TEA'
+                az: 'YAŞIL ÇAY',
+                ru: 'ЗЕЛЕНЫЙ ЧАЙ',
+                en: 'GREEN TEA'
             },
             img: '../assets/images/tea/green_tea.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '5'
         },
         {
             dish: {
-                az:'YASƏMƏN ÇAY',
-                ru:'ЧАЙ С ЖАСМИНОМ',
-                en:'JASMINE'
+                az: 'YASƏMƏN ÇAY',
+                ru: 'ЧАЙ С ЖАСМИНОМ',
+                en: 'JASMINE'
             },
             img: '../assets/images/tea/yasemen_tea.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '5'
         },
         {
             dish: {
-                az:'BERQAMOT ÇAY',
-                ru:'ЧАЙ С БЕРГАМОТОМ',
-                en:'GERGAMOT TEA'
+                az: 'BERQAMOT ÇAY',
+                ru: 'ЧАЙ С БЕРГАМОТОМ',
+                en: 'GERGAMOT TEA'
             },
             img: '../assets/images/tea/bergamot_tea.png',
             description: {
-                az:'',
-                ru:'',
-                en:''
+                az: '',
+                ru: '',
+                en: ''
             },
             price: '5'
         },
         {
             dish: {
-                az:'CASCARA ÇAYI',
-                ru:'ЧАЙ КАСКАРА',
-                en:'CASCARA TEA'
+                az: 'CASCARA ÇAYI',
+                ru: 'ЧАЙ КАСКАРА',
+                en: 'CASCARA TEA'
             },
             img: '../assets/images/tea/cascara_tea.png',
-            description: 'Qəhvə giləmeyvələri',
+            description: {
+                az: 'Qəhvə giləmeyvələri',
+                en: 'Coffee Cherries',
+                ru: 'Кофейные ягоды'
+            },
+
             price: '7'
         },
         {
             dish: {
-                az:'TROPİK MEYVƏLİ ÇAY',
-                ru:'ТРОПИЧЕСКИЙ ЧАЙ',
-                en:'Tropical Tea'
+                az: 'TROPİK MEYVƏLİ ÇAY',
+                ru: 'ТРОПИЧЕСКИЙ ЧАЙ',
+                en: 'Tropical Tea'
             },
             img: '../assets/images/tea/tropic_fruit_tea.png',
-            description: 'Kumquat, portağal, jasmin çay, marakuya',
+            description: {
+                az: 'Kumquat, portağal, jasmin çay, marakuya',
+                en: 'Kumquat, jasmine tea, orange, passion fruit',
+                ru: 'Кумкват, чай жасмин, апельсин, маракуйя'
+            },
             price: '7'
         },
         {
             dish: {
-                az:'GİLƏMEYVƏLİ ÇAY',
-                ru:'ЯГОДНЫЙ ЧАЙ',
-                en:'Mix berries tea'
+                az: 'GİLƏMEYVƏLİ ÇAY',
+                ru: 'ЯГОДНЫЙ ЧАЙ',
+                en: 'Mix berries tea'
             },
             img: '../assets/images/tea/gilemeyveli_tea.png',
-            description: 'qarışıq giləmeyvələr, hibiskus çayı, rozmarin',
+            description: {
+                az: 'Qarışıq giləmeyvələr, hibiskus çayı, rozmarin',
+                en: 'Mix berries, hisbiscus tea, rosemary',
+                ru: 'Микс ягод, гибискус, розмарин'
+            },
             price: '7'
         },
     ]

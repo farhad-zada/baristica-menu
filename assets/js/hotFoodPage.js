@@ -102,14 +102,14 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             dish: {
-                az: 'QIZIL BALIQ VƏ KİM CHİ SOUSU İLƏ POKE',
+                az: 'QIZIL BALIQ VƏ KİM Çİ SOUSU İLƏ POKE',
                 ru: 'ПОКЕ С ЛОСОСЕМ И СОУСОМ КИМЧИ',
                 en: 'Salmon Poke'
             },
             img: '../assets/images/hotFood/gold_fish_poke.png',
             description: {
-                az: 'Təzə qızıl balıq, düyü, kim chi sousu, çuka salatı, guacamole, edamame',
-                ru: 'Свежий лосось, белый рис, острый соус кимчи, салат чука, гуакамоле ,белый&черный кунжут, эдамаме, маринованный имбирь',
+                az: 'Az duzlu qızıl balıq, düyü, çuka , turşu zəncəfil, edamame, quakamole, kim çi sousla',
+                ru: 'Малосольный лосось, рис, чука, маринованный имбирь, эдамаме, гуакамоле, соус кимчи',
                 en: 'Salted salmon, rice, chuka , pickled ginger, edamame, guacamole, kim chi sauce '
             },
             price: '19'
@@ -131,14 +131,14 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             dish: {
                 az: '‘POPKORN’ KREVETKA İLƏ',
-                ru: 'ПОПКОРН С КРЕВЕТКАМИ',
+                ru: 'Креветки Попкорн',
                 en: 'Prawn Popcorn'
             },
             img: '../assets/images/hotFood/popkorn_krevetka.png',
             description: {
                 az: 'Xırtıldayan krivetlər Asiya ədviyyatlı mayonez ilə',
-                ru: 'Хрустящие креветки с пикантным Aзиатским майонезом',
-                en: 'Crispy Prawns with  Asian  spicy mayo'
+                ru: 'Хрустящие креветки с острым азиатским соусом',
+                en: 'Crispy Prawns with  Asian  spicy sauce'
             },
             price: '15'
         },
